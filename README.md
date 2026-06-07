@@ -1,4 +1,4 @@
-# Agentic RAG Pipeline
+# CogniRoute(Agentic RAG Pipeline)
 
 > A production-grade Retrieval-Augmented Generation system with intelligent routing, multi-source retrieval, hallucination detection, and cited answers.
 
